@@ -1,11 +1,11 @@
 # The Classic Looney Page
 
-**Author**: thedonoforever16@gmail.com
+**Autor**: thedonoforever16@gmail.com
 
 Donovan Sáez
 
-## Description
-A site to watch Looney Tunes and Merrie Melodies for free without ads, including Private Snafu, Mr. Hook, colorized versions, dubbing, comics, books, ETC.
+## Descripción
+Una página web para poder ver y coleccionar los clásicos Looney Tunes y Fantasías Animadas de Ayer y Hoy, incluyendo extras como Private Snafu, Mr. Hook, versiones colorizadas, doblajes, cómics, libros, canciones, ETC.
 
-## Important
-This is only limited to theatrical releases, so you won't be able to find series like Looney Tunes Cartoons.
+## Importante
+Solo se limita a los lanzamientos en cine, por lo que no estarán disponible las películas ni series de televisión como Duck Dodgers o Wabbit.
